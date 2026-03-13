@@ -52,3 +52,5 @@ Check Data Overview: The dashboard will display:-
  - Select the chart type, X-axis, Y-axis, and optional legend.
 -  Choose an aggregation method if relevant.
 -  Charts are interactive and rendered directly in the dashboard.
+
+  
