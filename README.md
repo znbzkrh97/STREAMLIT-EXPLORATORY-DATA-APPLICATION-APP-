@@ -1,7 +1,7 @@
 **-- 📊 Streamlit Exploratory Data Analysis (EDA) Dashboard -- **
 A simple and interactive Streamlit application to upload, explore, and visualize your dataset (CSV or Excel). This tool helps you quickly understand your data, check for missing values, duplicates, and generate insightful visualizations.
 
-🔹** Features**
+**🔹 Features**
 1. File Upload
    Upload CSV, TXT, or Excel files (.csv, .txt, .xlsx, .xls, .xlsm, .xlsb).
 
